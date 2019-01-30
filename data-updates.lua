@@ -1,5 +1,5 @@
--- Made by Arcitos
--- Thanks to Sephumbra for his mod that teached me how to add new sounds to programmable speakers
+-- Made by OmegaPhi 115
+-- Thanks to Arcitos for his mod that teached me how to add new sounds to programmable speakers
 instrument = table.insert(data.raw["programmable-speaker"]["programmable-speaker"].instruments, 2, {
 	name = "soundpack-alerts-and-sirens",
 	notes =

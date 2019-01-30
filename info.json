@@ -1,0 +1,9 @@
+{
+  "name": "Custom-Speaker-Alerts",
+  "version": "1.0.1",
+  "title": "Custom-Speaker-Alerts",
+  "author": "OmegaPhi 115",
+  "description": "Put your own sounds in the programable speaker !",
+  "factorio_version": "0.16",
+  "dependencies": []
+}

@@ -2,8 +2,7 @@
 -- Thanks to Arcitos for his mod that teached me how to add new sounds to programmable speakers
 instrument = table.insert(data.raw["programmable-speaker"]["programmable-speaker"].instruments, 2, {
 	name = "soundpack-alerts-and-sirens",
-	notes =
-	{
+	notes = {
         { name = "alarm-1",  sound = { filename = "__Soundpack-alerts-and-sirens__/sound/alarm_1.ogg" }},
         { name = "alarm-2",  sound = { filename = "__Soundpack-alerts-and-sirens__/sound/alarm_2.ogg" }},  
         { name = "alarm-3",  sound = { filename = "__Soundpack-alerts-and-sirens__/sound/alarm_3.ogg" }}, 
